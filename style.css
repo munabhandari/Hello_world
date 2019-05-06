@@ -1,0 +1,26 @@
+nav {
+  background-color:rgb(88, 83, 83);
+  display: flow-root;
+  padding: 5px;
+}
+nav a {
+  color: white;
+}
+
+nav .left{
+  float: left;
+}
+
+nav .right {
+  float: right;
+}
+nav form input[type="submit"]{
+  background-color: transparent;
+  border: 1px solid  lightseagreen;
+  color: lightseagreen;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+article{
+}
