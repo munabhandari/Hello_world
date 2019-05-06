@@ -21,6 +21,42 @@ nav form input[type="submit"]{
   border-radius: 5px;
   padding: 5px 10px;
 }
+.top-container{
+  background-color:rgb(231, 228, 228);
+  
+}
+.top {
+  width: 80%;
+  padding: 20px 0px 40px 0px;
+  margin: 0 auto;
+}
+.top h1{
+  margin: 0px;
+}
+.top a{
+  padding: 10px;
+  color: white;
+  background-color: rgb(0, 110, 253);
+}
 
-article{
+
+main{
+  width: 80%;
+  margin: 0 auto;
+}
+main section{
+  display: flex;
+}
+
+main section article:nth-child(2){
+  margin: 0 20px;
+}
+main section a{
+  padding: 8px;
+  color: white;
+  background-color: rgb(88, 83, 83);
+}
+
+hr{
+  color: white;
 }
